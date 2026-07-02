@@ -6,7 +6,6 @@
 |---|---|---|---|
 | Linear Regression | $71,956 | $134,143 | 0.8572 |
 | Random Forest | $68,005 | $130,263 | 0.8653 |
-| Random Forest (Tuned via GridSearchCV/RandomizedSearchCV) | `[fill in your tuned results]` | `[fill in]` | `[fill in]` |
 
 **Interpretation:**
 - **R² ≈ 0.86** means the model explains about 86% of the variance in house prices — solid performance for this dataset, in line with typical results reported on King County housing data.
@@ -30,13 +29,22 @@ Location (`lat`) and living area (`sqft_living`) together account for roughly 75
 
 ## App Screenshots
 
-`[Add a screenshot of the main prediction panel — estimated price, input table]`
+<img width="595" height="664" alt="image" src="https://github.com/user-attachments/assets/a9caf701-ebff-4802-a425-04bef82e37eb" />
+<img width="1183" height="732" alt="image" src="https://github.com/user-attachments/assets/22b9fff5-438a-4053-8725-ce635ef5562c" />
 
-`[Add a screenshot of the location map + "Where your house lands" scatterplot]`
+<img width="1784" height="610" alt="image" src="https://github.com/user-attachments/assets/667ec904-2587-4537-a421-4815daee2b4a" />
 
-`[Add a screenshot of the factor-by-factor tabs (Bedrooms/Bathrooms/Floors/House Age)]`
+<img width="1760" height="664" alt="image" src="https://github.com/user-attachments/assets/df1560a7-6aa2-4c52-bb8d-5fa07f530ef2" />
 
-`[Add a screenshot of the feature importance chart]`
+
+<img width="1770" height="630" alt="image" src="https://github.com/user-attachments/assets/12cb4c10-7319-4b0f-8326-0088dde534db" />
+
+<img width="1776" height="550" alt="image" src="https://github.com/user-attachments/assets/293e4d16-424f-4f7b-8c9d-b0f8af72aa39" />
+
+<img width="1760" height="559" alt="image" src="https://github.com/user-attachments/assets/4a3050a8-a9a5-470e-b472-c614cb73585e" />
+<img width="1686" height="492" alt="image" src="https://github.com/user-attachments/assets/7c13886f-18ac-4655-bc11-74893a81a31a" />
+
+
 
 ## Sanity Checks
 
