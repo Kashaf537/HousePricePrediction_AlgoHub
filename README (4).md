@@ -3,7 +3,7 @@
 A machine learning project that predicts house prices using regression techniques, built as part of the **AlgoHub Software House** Internship Program (Week 1 — Beginner Track).
 
 Repo: https://github.com/Kashaf537/HousePricePrediction_AlgoHub
-Live Demo: `[Add your Streamlit Cloud URL here]`
+Live Demo: `https://housepricepredictionalgoappgit-gqyhjgbuss6unket689zvw.streamlit.app/`
 Demo Video: `[Add your video link here]`
 
 📄 See also: [Dataset Information](DATASET.md) • [Installation Guide](INSTALLATION.md) • [Results & Screenshots](RESULTS.md)
