@@ -4,7 +4,7 @@ A machine learning project that predicts house prices using regression technique
 
 Repo: https://github.com/Kashaf537/HousePricePrediction_AlgoHub
 Live Demo: `https://housepricepredictionalgoappgit-gqyhjgbuss6unket689zvw.streamlit.app/`
-Demo Video: `[Add your video link here]`
+Demo Video: `https://drive.google.com/file/d/1jmzeydagdN445NS0PYoSI4ZxAD43Mla2/view?usp=drive_link`
 
 📄 See also: [Dataset Information](DATASET.md) • [Installation Guide](INSTALLATION.md) • [Results & Screenshots](RESULTS.md)
 
