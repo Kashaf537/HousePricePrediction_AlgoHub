@@ -75,7 +75,7 @@ This project predicts residential house prices based on features like living are
 HousePricePrediction_AlgoHub/
 │
 ├── data/
-├── |kc_house_data.csv
+     ├── kc_house_data.csv
 ├── house_price_prediction.ipynb
 ├── housepred_app.py
 ├── house_price_model.pkl
